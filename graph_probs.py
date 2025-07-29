@@ -22,7 +22,7 @@ dataset_choice = st.sidebar.selectbox("Choose dataset", ['combined', 'uw', 'macs
 
 # Age and Ratio range
 age_min, age_max = st.sidebar.slider("Age range", 0, 100, (50, 60))
-ratio_min, ratio_max = st.sidebar.slider("Ratio range", 0.0, 4.0, (0.2, 1.4), step=0.05)
+ratio_min, ratio_max = st.sidebar.slider("Ratio range", 0.0, 2.0, (0.2, 1.4), step=0.05)
 
 # Bin size
 bin_size = st.sidebar.slider("Bin size", 0.01, 0.5, 0.1, step=0.01)
