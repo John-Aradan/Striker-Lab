@@ -1,5 +1,13 @@
 # Striker-Lab
 
+<div align="center">
+  
+[![Try Cancer Distribution Tool - Powered by Streamlit](https://img.shields.io/badge/Try%20Distribution%20Tool-Powered%20by%20Streamlit-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logo=streamlit&logoColor=white)](https://graph-prob.streamlit.app/)
+
+  
+  
+</div>
+
 ## Purpose
 
 This project provides a tool to **visualize how the probability of a patient belonging to one of four classes**—Normal, LSIL, HSIL, and Cancer—varies as specific features change over time. The main feature of interest demonstrated is how the probability distribution across these classes evolves as the "Ratio" feature of a patient decreases.
